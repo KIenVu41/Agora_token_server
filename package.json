@@ -1,0 +1,15 @@
+{
+  "name": "agora_token_server",
+  "version": "1.0.0",
+  "description": "a token generation server for agora",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kienvu41",
+  "license": "ISC",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "express": "^4.18.2"
+  }
+}
